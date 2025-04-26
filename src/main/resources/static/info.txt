@@ -1,0 +1,8 @@
+static/ — Arquivos Estáticos
+Tudo que está nesse diretório é servido diretamente pelo servidor como se fosse uma página da web comum.
+
+CSS, JavaScript, Imagens, PDFs ou outros arquivos públicos
+
+Por exemplo, o arquivo logo.png em src/main/resources/static/, ele ficará acessível:
+
+http://localhost:8080/logo.png

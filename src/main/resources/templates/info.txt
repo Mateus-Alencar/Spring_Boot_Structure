@@ -1,0 +1,16 @@
+Páginas HTML com lógica (dinâmicas)
+Nesse diretório ficam os arquivos que o Spring Boot renderiza com o mecanismo de templates, como o Thymeleaf (que é o padrão).
+
+Exemplo: HTML dinâmico com variáveis, loops, condições, etc.
+
+Geração de páginas a partir de dados do backend
+
+HTML:
+<h1>Bem-vindo, <span th:text="${nome}"></span>!</h1>
+
+JAVA:
+@GetMapping("/")
+public String home(Model model) {
+    model.addAttribute("nome", "Mateus");
+    return "home"; // carrega o templates/home.html
+}
