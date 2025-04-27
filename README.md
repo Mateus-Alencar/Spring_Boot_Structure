@@ -1,8 +1,8 @@
 # Spring Boot
 
-### O Spring Boot facilita a criação de aplicativos e serviços Java de nível de produção com o mínimo de configuração. Ele adota uma abordagem opinativa da plataforma Spring, permitindo que novos e antigos usuários acessem rapidamente os recursos de que precisam. 
-### Com o Spring Boot, é possível desenvolver aplicações Java autônomas, que podem ser executadas diretamente usando o comando java -jar, além de oferecer suporte a implantações tradicionais no formato WAR. 
-### Além disso, o Spring Boot disponibiliza uma ferramenta de linha de comando (CLI) que permite a execução de scripts Spring de forma rápida e prática.
+### O Spring Boot facilita a criação de aplicativos e serviços Java de nível de produção com o mínimo de configuração. Ele adota uma abordagem opinativa da plataforma Spring, permitindo que novos e antigos usuários acessem rapidamente os recursos de que precisam. ###
+### Com o Spring Boot, é possível desenvolver aplicações Java autônomas, que podem ser executadas diretamente usando o comando java -jar, além de oferecer suporte a implantações tradicionais no formato WAR. ###
+### Além disso, o Spring Boot disponibiliza uma ferramenta de linha de comando (CLI) que permite a execução de scripts Spring de forma rápida e prática. ###
 
 # Estrutura de Projeto Spring Boot
 
